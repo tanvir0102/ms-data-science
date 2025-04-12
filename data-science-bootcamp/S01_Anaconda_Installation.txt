@@ -1,0 +1,40 @@
+## Installation of Python
+
+https://www.python.org/downloads/
+https://packaging.python.org/en/latest/tutorials/installing-packages/
+
+python -> package
+
+pip install -- performs download and installation
+pip install pytest # It's install the package in the system
+pip install termcolor 
+
+import os -- running the package
+
+python
+- library
+	- os
+	
+- pip : is a store of libraries (appstore)
+
+
+## Anaconda Installation:
+Python 3
+Anaconda/Miniconda -- 100+ libraries
+
+https://www.anaconda.com/download --  download and complete the installation of anaconda
+
+open CMD or Terminal
+> conda
+> python
+> conda activate base
+(base) C:\Users\mohammad_tanvir> python
+
+conda update conda
+conda update --all
+
+commad 1 : in terminal >> type conda
+commad 2 : in terminal >> conda activate base
+commad 3 : in terminal >> type python
+commad 4 : in terminal >> conda activate base >> Python
+

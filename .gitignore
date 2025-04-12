@@ -1,2 +1,4 @@
 **/ds-venv/**
 **/*.csv
+**/*.xlsx
+**/*.xls
