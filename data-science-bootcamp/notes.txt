@@ -1,3 +1,4 @@
+# Session : 01
 ## Installation of Python
 
 https://www.python.org/downloads/
@@ -37,4 +38,11 @@ commad 1 : in terminal >> type conda
 commad 2 : in terminal >> conda activate base
 commad 3 : in terminal >> type python
 commad 4 : in terminal >> conda activate base >> Python
+
+# Session : 02
+1. VS Code and Anaconda alreay installed
+2. Environments
+
+
+3. Python Coding
 

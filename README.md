@@ -3,8 +3,9 @@
 ### Install Anaconda
 
 ```shell
-conda create -p pbc-venv python==3.12
-conda activate pbc-venv/
+conda create -p ds-venv python==3.12
+conda create -n ds-venv python==3.12
+conda activate ds-venv/
 conda deactivate
 
 pip install ipykernel
