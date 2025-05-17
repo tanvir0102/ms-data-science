@@ -1,0 +1,18 @@
+Programming is deeply imbeeded
+- Netflix recommending shows
+- Amazon recommending product
+
+use ML to analyze the browsing history and clicks
+
+- User: personalized suggestion
+- Company: Higher engagement
+
+---------------------------------
+LLM : ChatGPT
+
+Ask an LLM of your choice for a timeline on the history of computers and programming.
+Ask an LLM of your choice to tell you whether an abacus is a computer.
+Ask an LLM of your choice to tell you about CRISP-DM as a data science analogue of the Software Development Life Cycle.
+
+https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/ai/plan
+
