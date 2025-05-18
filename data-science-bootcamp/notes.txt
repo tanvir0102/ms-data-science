@@ -1,4 +1,17 @@
-# Session : 01
+------------------------------------------------------------------------------------------------------------------
+# Day 01: Session 01: Introduction
+------------------------------------------------------------------------------------------------------------------
+Krish Naik
+Mayank Aggrawal
+Monal Kumar
+- course understanding and structure
+- DSA and Machine Design should be complete before the DS interview
+- We will be implementing the project post completion of the Module
+- Good python developer, ML, AI Engineer
+
+-------------------------------------------------------------------------------------------------------------------
+# Day 02: Session 02: Ànaconda Installation
+-------------------------------------------------------------------------------------------------------------------
 ## Installation of Python
 
 https://www.python.org/downloads/
@@ -39,10 +52,38 @@ commad 2 : in terminal >> conda activate base
 commad 3 : in terminal >> type python
 commad 4 : in terminal >> conda activate base >> Python
 
-# Session : 02
+--------------------------------------------------------------------------------------------------------------------
+# Day 03: Session 03: Getting started with Python
+--------------------------------------------------------------------------------------------------------------------
 1. VS Code and Anaconda alreay installed
 2. Environments
-
-
 3. Python Coding
 
+Why do we create environment, what is a environment?
+
+Company XYZ - Tanvir - Head of the Data Science - you are working on multiple projects
+Project A - Dependecies - End-to-end ML Project - Python 3.10
+	- scikit learn
+	- panda
+	- numpy
+Project B - Dependecies - End-to-end Deep Learning Project - Python 3.12
+	- Tensorflow
+	- pytorch
+
+how to create environment?
+conda create -p venv python==3.12  	# -p prefix name to the environment ... create in current directory
+conda create -n venv python==3.12 	# create in the same directory where conda installed
+
+best way is to create venv in same directory, or in the work space using -p
+
+conda activate venv/
+pip install panda
+
+or create requirements.txt to install multiple packages
+pip install -r requirements.txt
+
+
+------------------------------------------------------------------------------------------------------------
+# Day 04: Session 04: Getting started with Python
+------------------------------------------------------------------------------------------------------------
+Threading and Processes
