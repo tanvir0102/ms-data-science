@@ -93,19 +93,19 @@ Python -> ML -> DL -> Gen. AI
 
 
 ------------------------------------------------------------------------------------------------------------
-# Day 05: Session 04: Basic Data Structure in Python
+# Day 05: Session 05: operators, conditionals and control flow, strings, user input
 ------------------------------------------------------------------------------------------------------------
 
 
 
 ------------------------------------------------------------------------------------------------------------
-# Day 06: Session 04: Basic Data Structure in Python
+# Day 06: Session 06: Advanced python data types, loops
 ------------------------------------------------------------------------------------------------------------
 
 
 
 ------------------------------------------------------------------------------------------------------------
-# Day 07: Session 04: Basic Data Structure in Python
+# Day 07: Session 04: Advanced data types and loops
 ------------------------------------------------------------------------------------------------------------
 
 
@@ -131,4 +131,19 @@ Threading and Processes
 
 
 
+
+------------------------------------------------------------------------------------------------------------
+# Day 28: Session 28: Database - 1
+------------------------------------------------------------------------------------------------------------
+Previous Assignments:
+- Store the Data in CSV file
+- Store the Data in JSON file
+- Store the Data in xlsx(excel sheet) file
+- Store the Data in text file
+- Here we can store the data, we can't easy retrieve or manage the data, it's for small scale
+
+
+Database: is a organized system to manage and retrieve data efficiently
+- we can big scale system (Amazon) 
+- order.csv, books.csv
 
