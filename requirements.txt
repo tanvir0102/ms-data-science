@@ -1,8 +1,11 @@
 ipykernel
-numpy
-pandas
+numpy==1.26.4
+pandas==2.2.2
 openpyxl
-matplotlib
-seaborn
-scikit-learn
+matplotlib==3.10.0
+seaborn==0.13.2
+scikit-learn==1.6.1
 statsmodels
+tensorflow==2.18.0
+keras==3.8.0
+pillow==11.1.0
